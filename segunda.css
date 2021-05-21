@@ -63,3 +63,10 @@ label{
     position:absolute;
     z-index: 1;
 }
+
+h1{ text-align: center }
+
+P { text-align: center; 
+    color: cornsilk;
+}
+
