@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    background:url(novo.png);
+    background-size: 100%;
+}
+
+h1 { text-align: center; }
+
+p { text-align: center;
+    text-align: justify;
+    color: cornsilk;
+}
+
+img {
+        border-radius: 10px;
+        width:150px;
+	    height: 200px;
+       
+}
+
+header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+
+header ul li a {
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+header ul li a:hover{ 
+    background: #fff;
+    color:#2b1055;
+}
