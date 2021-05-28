@@ -41,3 +41,10 @@ header ul li a:hover{
     color:#2b1055;
 }
  
+section{
+	padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+	flex-wrap:wrap;
+	align-items: center;
+}
